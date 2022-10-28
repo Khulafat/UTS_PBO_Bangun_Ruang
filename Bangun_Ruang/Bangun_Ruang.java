@@ -20,6 +20,7 @@ public class Bangun_Ruang {
         System.out.println("7. Volume Kubus");
         System.out.println("8. Keliling Kubus");
         System.out.println("9. Volume Kerucut");
+        System.out.println("0. exit");
         System.out.println("===========================");
     }
 }
